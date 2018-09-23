@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Hummans!
+Hi Humans!
 
 My name is George.
